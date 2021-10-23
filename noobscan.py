@@ -9,7 +9,7 @@ parser.add_argument('-d','--domain', metavar='' , required=True ,help='enter dom
 parser.add_argument('-sx','--skipxss', action='store_true' ,help='use when you don\' want to scan for xss.')
 args = parser.parse_args() 
 
-tprint('\n S T 3 X Z  -  N O O B \n')
+tprint('\n N O O B - S C A N \n')
 start = time.perf_counter()
 
 # -----------------------------------------------------------------------------------------------#
